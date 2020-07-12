@@ -4634,3 +4634,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.12-11.18.42:549][501]LogExit: Editor shut down
 [2020.07.12-11.18.43:498][501]LogExit: Transaction tracking system shut down
 [2020.07.12-11.18.47:251][501]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.12-11.19.18:561][501]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001F63B3E9780), frame # 222501
+[2020.07.12-11.19.18:564][501]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F63B316AC0), frame # 222501
+[2020.07.12-11.19.18:704][501]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F63B37DC00), frame # 222501
